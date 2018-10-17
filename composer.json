@@ -1,5 +1,5 @@
 {
-    "name": "mp/loadable_objects",
+    "name": "morganPolitano/loadable_objects",
     "description": "PHP trait that add methods to load objects instead of creating them.",
     "type": "library",
     "minimum-stability": "dev",
