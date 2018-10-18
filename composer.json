@@ -3,5 +3,8 @@
     "description": "PHP trait that add methods to load objects instead of creating them.",
     "type": "library",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+	"autoload": {
+ 		"psr-4": { "loadable\\": "src/" }
+	},
 }
