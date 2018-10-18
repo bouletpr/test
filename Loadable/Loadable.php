@@ -1,6 +1,6 @@
 <?php
 
-namespace loadable;
+namespace Loadable;
 
 class Truc{
 	static public function Machin()
